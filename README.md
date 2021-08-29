@@ -61,7 +61,13 @@ Throughout the worflow from idea to ready building, all stakeholders look at the
 
 ## 3. What?
 
-### 3.1. Elements
+The composition of the loxel house can be through the aspects of material, the elements which are made out of that material, and the joints i.e. the means by which the elements are joint together.
+
+### 3.1. Material
+
+Regardless if waste, local timber, or ready-made massive wood elements are used, the element material is cross laminated timber. The timber is nailed with aluminum nails to form cross laminated elements, that provide structural properties far superior to traditional logs.  
+
+### 3.2. Elements
 
 Loxel building is made out of loxels. There is exactly three kinds of loxels. These are named "Single", "Half", and "Quarter" loxels. 
 
@@ -72,10 +78,6 @@ The **Half** is exactly half of the length of the Single, and otherwise has the 
 The **Quarter** is exactly quarter of the length of the Single, and otherwise has the same dimensions. In other words, it has exactly the quarter of the absolute volume of the Single.
 
 **NOTE: The dimension and volume of the Single provided here are indicative. The dimension and volume of Half and Quarter will always follow the same pattern as in the above example.**
-
-### 3.2. Material
-
-Regardless if waste, local timber, or ready-made massive wood elements are used, the element material is cross laminated timber. The timber is nailed with aluminum nails to form cross laminated elements, that provide structural properties far superior to traditional logs.  
 
 ### 3.3. Joints
 
@@ -88,7 +90,7 @@ A major research question is "how are the elements to be joined" in a way that s
 
 Moreover, the joining method must be 100% natural. 
 
-### 3.4. Prototype
+### 3.4. Prototype Floor Plan
 
 <p align="center">
     <img width=500px src="https://raw.githubusercontent.com/mikkokotila/loxel/main/img/Loxel_proto_house.png" alt="License">
