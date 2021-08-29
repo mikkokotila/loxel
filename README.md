@@ -87,3 +87,10 @@ A major research question is "how are the elements to be joined" in a way that s
 - Full recyclability
 
 Moreover, the joining method must be 100% natural. 
+
+### 3.4. Prototype
+
+<p align="center">
+    <img width=500px src="https://raw.githubusercontent.com/mikkokotila/loxel/main/img/Loxel_proto_house.png" alt="License">
+  <br> <i>an indicative floor plan of a basic loxel house</i>
+</p>
