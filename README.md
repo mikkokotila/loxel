@@ -99,6 +99,8 @@ Moreover, the joining method must be 100% natural.
 
 ### 3.4. Prototype Floor Plan
 
+The proto loxel house will have a floor area of roughly 30m2 to fit within the area permitted by EU building regulation to be built without building permit. 
+
 <p align="center">
     <img width=500px src="https://raw.githubusercontent.com/mikkokotila/loxel/main/img/Loxel_proto_house.png" alt="License">
   <br> <i>an indicative floor plan of a basic loxel house</i>
