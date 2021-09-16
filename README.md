@@ -105,3 +105,13 @@ The proto loxel house will have a floor area of roughly 30m2 to fit within the a
     <img width=500px src="https://raw.githubusercontent.com/mikkokotila/loxel/main/img/Loxel_proto_house.png" alt="License">
   <br> <i>an indicative floor plan of a basic loxel house</i>
 </p>
+
+## 4. Deliverables
+
+- Buildable (3D) model
+- 2D drawdings
+- Assembly part list
+- Assembly instructions
+- Cost calcuation
+
+NOTE: Assembly part list and cost calculation is based on actual quotation from at least one part manufacturer, preferably two. 
